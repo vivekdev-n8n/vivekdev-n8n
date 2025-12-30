@@ -34,8 +34,8 @@ I build intelligent, scalable automation systems that connect complex APIs and l
 ---
 
 ### 📫 Connect with me:
-- **Upwork:** [[Upwork](https://www.upwork.com/freelancers/~01b7c8222251ed84a9)]
-- **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/vivek-n8n-dev/)]
+- [[**Upwork**](https://www.upwork.com/freelancers/~01b7c8222251ed84a9)]
+- [[**LinkedIn**](https://www.linkedin.com/in/vivek-n8n-dev/)]
 
 For inquiries, please reach out to me via LinkedIn or Upwork.
 
