@@ -29,7 +29,7 @@ I build intelligent, scalable automation systems that connect complex APIs and l
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vivekdev-n8n&theme=dark&show_icons=true" />
+![Vivek Stats](https://github-readme-stats.vercel.app/api?username=vivekdev-n8n&theme=dark&show_icons=true&hide_border=true)
 
 ---
 
