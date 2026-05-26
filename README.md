@@ -1,42 +1,57 @@
-# Hi there, I'm Vivek! 👋 
-### n8n Developer | AI Automation Engineer | API Integration Specialist
+# Vivek Kumar | n8n Automation Expert 🚀
 
-Enterprise-Grade n8n Architect | Building High-Performance AI Ecosystems. I help agencies & founders scale with plug-and-play business engines, custom CRM integrations, and 0-cost scaling strategies.
+### **Building High-Performance AI Ecosystems & Resilient Business Engines.**
 
----
-
-### 🛠 My Tech Stack
-
-- **Automation:** n8n (Cloud & Self-Hosted/Docker)
-- **AI & LLM:** OpenAI API, AI Agents, LangChain (n8n nodes)
-- **Databases:** Google Sheets, Airtable, PostgreSQL, Supabase
-- **APIs & Logic:** RESTful APIs, Webhooks, JSON Manipulation, JavaScript (n8n Code Node)
-- **Marketing Tech:** Technical SEO Automation, Google Search Console API, SerpApi
+I transform manual business chaos into **Autonomous Systems**. I help agencies and founders scale their operations using Enterprise-Grade n8n workflows, custom AI agents, and 0-cost scaling strategies.
 
 ---
 
-### 🚀 Featured n8n Workflows
-
-#### 1. Automated Job Recruitment Pipeline
-- **Description:** A daily automated system that fetches job listings, filters new entries via SQL-style deduplication, and sends formatted HTML email alerts.
-- **Tech:** n8n, SerpApi, Google Sheets, Gmail API.
-- **Key Feature:** Advanced data cleaning and deduplication logic.
-
-#### 2. AI-Powered Content Research Agent
-- **Description:** Automates the creation of SEO content briefs by analyzing SERP data and generating insights via OpenAI.
-- **Tech:** n8n, OpenAI, Google Docs API.
+### 🏛️ My Enterprise Framework (The 11 Pillars)
+Every system I build follows a "Resilient Architecture" framework:
+- **Universal Blueprinting:** Client-agnostic, "Plug-and-Play" business engines.
+- **Data Sovereignty:** Privacy-first design (Ollama, Supabase, Airtable).
+- **Zero-Cost First:** Premium operations using free-tier limits, not expensive tools.
+- **Audit Trail & ROI:** Real-time logging of business value and time saved.
+- **Automated Watchdog:** 24/7 Safety Net systems with instant alerts.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠 Technical Ecosystem
+*   **Automation:** n8n (Cloud/Self-Hosted/Docker), API Orchestration.
+*   **AI Intelligence:** Autonomous Research Agents (Groq, Tavily, Ollama, LangChain).
+*   **Data & CRM:** Airtable, Supabase (Postgres), HubSpot, FluentCRM.
+*   **APIs & Logic:** RESTful APIs, Webhooks, Data Sanitization, Advanced JavaScript.
+*   **Marketing Tech:** Technical SEO, GSC API, Funnel Automation (Systeme.io, GHL).
+
+---
+
+### 📦 Featured Business Engines
+
+#### 1. Airtable Lead Capture & Welcome System (Tier 3 Enterprise)
+- **Engine:** Autonomous Lead Intelligence (AI Qualification) + Enterprise CRM Sync (HubSpot).
+- **Core Value:** Syncs CRM, Audit Logs, and Client Comms in 1 sec. Saves 4+ hours/day of research.
+- **Redundancy:** Dual-layer storage (Airtable + Supabase) for 100% data ownership.
+
+#### 2. AI-Powered Content Research Radar (Tier 2 Professional)
+- **Engine:** Real-time SERP monitoring with Multi-Agent Orchestration.
+- **Core Value:** Automates competitor analysis and provides ready-to-use sales/content tactics.
+- **Tech:** n8n, Groq (Llama 3.1), Tavily API, G-Sheets.
+
+---
+
+### 🔗 Explore My Work
+*   **[Visit My Store (Gumroad)](https://vivekn8ndev.gumroad.com/)** – Get pre-built, production-ready automation systems.
+*   **[Read My Articles (Dev.to)](https://dev.to/vivek-n8n-dev)** – Technical deep-dives into n8n architecture.
+*   **[Connect on LinkedIn](https://www.linkedin.com/in/vivek-n8n-dev/)** – Let's discuss scaling your business.
+
+---
+
+### 📈 GitHub Stats
 ![Vivek Stats](https://github-readme-stats.vercel.app/api?username=vivekdev-n8n&theme=dark&show_icons=true&hide_border=true)
 
 ---
 
-### 📫 Connect with me:
-- [Upwork](https://www.upwork.com/freelancers/~01b7c8222251ed84a9)
-- [LinkedIn](https://www.linkedin.com/in/vivek-n8n-dev/)
+*"Turning manual chaos into autonomous growth, one node at a time."*
 
-For inquiries, please reach out to me via LinkedIn or Upwork.
-
-"Turning manual tasks into autonomous systems, one node at a time."
+**Architect:** Vivek Kumar - n8n Automation Expert
+**Support:** [LinkedIn Profile](https://www.linkedin.com/in/vivek-n8n-dev/)
