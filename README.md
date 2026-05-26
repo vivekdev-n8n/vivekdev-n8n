@@ -1,7 +1,7 @@
 # Hi there, I'm Vivek! 👋 
 ### n8n Developer | AI Automation Engineer | API Integration Specialist
 
-I build intelligent, scalable automation systems that connect complex APIs and leverage AI to streamline business operations. My expertise lies in designing "bulletproof" workflows using n8n.
+Enterprise-Grade n8n Architect | Building High-Performance AI Ecosystems. I help agencies & founders scale with plug-and-play business engines, custom CRM integrations, and 0-cost scaling strategies.
 
 ---
 
