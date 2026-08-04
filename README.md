@@ -52,11 +52,6 @@ Deploy expert-built automation systems in minutes.
 
 ---
 
-### 📈 GitHub Stats
-![Vivek Stats](https://github-readme-stats.vercel.app/api?username=vivekdev-n8n&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
----
-
 *"Turning manual chaos into autonomous growth, one node at a time."*
 
 **Architect:** Vivek Kumar - n8n Automation Expert
