@@ -47,7 +47,6 @@ Deploy expert-built automation systems in minutes.
 
 ### 🔗 Explore My Work
 *   **[Visit My Store (Gumroad)](https://vivekn8ndev.gumroad.com/)** – Get pre-built, production-ready automation systems.
-*   **[Read My Articles (Dev.to)](https://dev.to/vivek-n8n-dev)** – Technical deep-dives into n8n architecture.
 *   **[Connect on LinkedIn](https://www.linkedin.com/in/vivek-n8n-dev/)** – Let's discuss scaling your business.
 
 ---
