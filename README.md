@@ -29,19 +29,19 @@ Every system I build follows a "Resilient Architecture" framework:
 Deploy expert-built automation systems in minutes.
 
 #### 1. Airtable Lead Capture & Welcome System (Tier 3 Enterprise)
-Engine: Multi-Agent AI Intelligence + HubSpot Deep Sync + Supabase Backup Vault.
-Core Value: 3-layer data redundancy, privacy gateway, and custom sales playbooks.
-[🛒 Get the Enterprise Engine](https://vivekn8ndev.gumroad.com/l/airtable-lead-capture-essential)
+*   **Engine**: Multi-Agent AI Intelligence + HubSpot Deep Sync + Supabase Backup Vault.
+*   **Core Value:** 3-layer data redundancy, privacy gateway, and custom sales playbooks.
+*   **[🛒 Get the Enterprise Engine](https://vivekn8ndev.gumroad.com/l/airtable-lead-capture-essential)**
 
 #### 1. Professional Lead Intelligence System (Tier 2)
-Engine: Real-time lead qualification + AI-powered research.
-Core Value: Saves 12+ hours/week by pre-qualifying leads with AI (Groq + Tavily).
-[🛒 Get the Professional Engine](https://vivekn8ndev.gumroad.com/l/airtable-lead-capture-professional)
+*   **Engine:** Real-time lead qualification + AI-powered research.
+*   **Core Value:** Saves 12+ hours/week by pre-qualifying leads with AI (Groq + Tavily).
+*   **[🛒 Get the Professional Engine](https://vivekn8ndev.gumroad.com/l/airtable-lead-capture-professional)**
 
 #### 1. Essential Lead Capture System (Tier 1)
-Engine: Robust sync (Airtable + Sheets) + Automated welcome emails.
-Core Value: The foundation for scalable automation at $0/month cost.
-[🛒 Get the Essential Engine](https://vivekn8ndev.gumroad.com/l/airtable-lead-capture-essential)
+*   **Engine:** Robust sync (Airtable + Sheets) + Automated welcome emails.
+*   **Core Value:** The foundation for scalable automation at $0/month cost.
+*   **[🛒 Get the Essential Engine](https://vivekn8ndev.gumroad.com/l/airtable-lead-capture-essential)**
 
 ---
 
